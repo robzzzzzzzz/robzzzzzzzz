@@ -9,14 +9,6 @@
   <hr style="width: 60%; border: 1px solid #30363d;" />
 </div>
 
-<br />
-
-<div align="center">
-  
-</div>
-
-<br />
-
 <div align="center">
   <h2>Stack Principal</h2>
   <p>
