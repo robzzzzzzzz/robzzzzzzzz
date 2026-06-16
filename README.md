@@ -15,7 +15,6 @@
   <h2>Estatísticas</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=robzzzzzzzz&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robzzzzzzzz&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robzzzzzzzz&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
 </div>
 
 <br />
