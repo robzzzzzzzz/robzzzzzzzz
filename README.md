@@ -2,7 +2,7 @@
   <h1>Roberto Ramos</h1>
   <p><strong>Desenvolvedor Full Stack Júnior</strong> | TypeScript, React, Node.js & Análise de Dados</p>
   <p>
-    <a href="https://linkedin.com/in/roberto-neto">
+    <a href="https://www.linkedin.com/in/roberto-ramos-0929791b9">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
