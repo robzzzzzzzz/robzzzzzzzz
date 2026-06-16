@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Roberto Neto</h1>
+  <h1>Roberto Ramos</h1>
   <p><strong>Desenvolvedor Full Stack Júnior</strong> | TypeScript, React, Node.js & Análise de Dados</p>
   <p>
     <a href="https://linkedin.com/in/roberto-neto">
@@ -12,9 +12,7 @@
 <br />
 
 <div align="center">
-  <h2>Estatísticas</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=robzzzzzzzz&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robzzzzzzzz&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" />
+  
 </div>
 
 <br />
@@ -34,11 +32,4 @@
     <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
     <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Render" />
   </p>
-</div>
-
-<br />
-
-<div align="center">
-  <hr style="width: 60%; border: 1px solid #30363d;" />
-  <p><sub>Construindo o futuro com código e dados</sub></p>
 </div>
